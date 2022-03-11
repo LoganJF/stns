@@ -1,0 +1,12 @@
+name: stns
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - seaborn
+  - ipywidgets
+  - matplotlib
+  - pandas
+  - pandastable
+  - neo
+  - brian2
